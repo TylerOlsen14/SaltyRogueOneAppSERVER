@@ -1,0 +1,19 @@
+{
+  "name": "oneapp",
+  "version": "1.0.0",
+  "description": "One app for the Salty Rogue apps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerOlsen14/SaltyRogueOneApp.git"
+  },
+  "author": "Tyler Olsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerOlsen14/SaltyRogueOneApp/issues"
+  },
+  "homepage": "https://github.com/TylerOlsen14/SaltyRogueOneApp#readme"
+}
